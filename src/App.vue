@@ -16,7 +16,7 @@ import AppHeader from '@/components/layout/AppHeader.vue'
       <!-- Konten utama -->
       <main class="flex-1 p-6 bg-gray-50">
         <!-- Tempat RouterView atau konten halaman -->
-        <!-- <RouterView /> -->
+        <RouterView />
         <h1 class="text-2xl font-bold">Selamat datang di SmartFarm 🌿</h1>
       </main>
     </div>
